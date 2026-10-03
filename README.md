@@ -81,14 +81,6 @@ M. Schonleber, D. Klotz and E. Ivers-Tiffee, *Electrochim. Acta* **131**, 20 (20
 P. Agarwal, O. D. Crisalle, M. E. Orazem and L. H. Garcia-Rubio,
 *J. Electrochem. Soc.* **142**, 4149 (1995).
 
-## Still to be added
-
-- [ ] five-run repeat data for the LGM50 cell (Section VI-B6 of the paper, SI Fig. S3)
-- [ ] value of the DC-blocking capacitors; the LTspice model uses 4.7 uF and has no 10 ohm shunt
-- [ ] bill of materials: the TL064CN line carries the part number of a DIP socket, and the
-      amplifiers and the DC-blocking capacitors are missing
-- [ ] Altium source files of the circuit board
-
 ## Licence
 
 Code in `analysis/` is MIT (see `LICENSE`). Data, hardware files and figures are CC BY 4.0
