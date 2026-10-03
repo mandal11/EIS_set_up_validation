@@ -1,0 +1,37 @@
+{
+  "title": "Milliohm impedance measurement of commercial lithium-ion cells: data, analysis and hardware",
+  "upload_type": "dataset",
+  "description": "Impedance spectra of two commercial cylindrical lithium-ion cells measured with a compact current-excitation analogue front-end and with a Stanford Research EC301 potentiostat at 72 frequencies between 20 mHz and 10 kHz; temperature series of two 18650 cells between -10 and 50 degrees Celsius; the analysis scripts for the error metrics, the linear Kramers-Kronig test and the figures added to the paper at revision; and the circuit files. Supporting the article in Energy Storage.",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "electrochemical impedance spectroscopy",
+    "lithium-ion battery",
+    "galvanostatic",
+    "analogue front-end",
+    "measurement uncertainty",
+    "Kramers-Kronig"
+  ],
+  "creators": [
+    {
+      "name": "Mandal, Sarbani",
+      "affiliation": "Indian Institute of Technology Guwahati"
+    },
+    {
+      "name": "Sah, Bikash",
+      "affiliation": "University of Siegen"
+    },
+    {
+      "name": "Pandey, Shaurya",
+      "affiliation": "Coventry University"
+    },
+    {
+      "name": "Mulpuri, Sai Krishna",
+      "affiliation": "University of Twente"
+    },
+    {
+      "name": "Kumar, Praveen",
+      "affiliation": "Oak Ridge National Laboratory"
+    }
+  ]
+}

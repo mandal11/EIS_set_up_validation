@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite both the paper and this repository."
+title: "Milliohm impedance measurement of commercial lithium-ion cells: data, analysis and hardware"
+type: dataset
+authors:
+  - family-names: Mandal
+    given-names: Sarbani
+    affiliation: "Department of Electronics and Electrical Engineering, Indian Institute of Technology Guwahati, India"
+  - family-names: Sah
+    given-names: Bikash
+    affiliation: "Chair of Interconnected Automation Systems, University of Siegen, Germany"
+  - family-names: Pandey
+    given-names: Shaurya
+    affiliation: "Centre for E-Mobility and Clean Growth, Coventry University, United Kingdom"
+  - family-names: Mulpuri
+    given-names: Sai Krishna
+    affiliation: "Faculty of Electrical Engineering, Mathematics and Computer Science, University of Twente, The Netherlands"
+  - family-names: Kumar
+    given-names: Praveen
+    affiliation: "Oak Ridge National Laboratory, Tennessee, USA"
+license: MIT
+license-url: "https://opensource.org/licenses/MIT"
+repository-code: "https://github.com/ORG/REPO"
+keywords:
+  - electrochemical impedance spectroscopy
+  - lithium-ion battery
+  - galvanostatic measurement
+  - analogue front-end
+  - measurement uncertainty
+  - Kramers-Kronig validation
+preferred-citation:
+  type: article
+  title: "Reference-Validated Milliohm Impedance Measurement of Commercial Lithium-Ion Cells Using a Compact Current-Excitation Analogue Front-End"
+  journal: "Energy Storage"
+  year: 2026
+  authors:
+    - family-names: Mandal
+      given-names: Sarbani
+    - family-names: Sah
+      given-names: Bikash
+    - family-names: Pandey
+      given-names: Shaurya
+    - family-names: Mulpuri
+      given-names: Sai Krishna
+    - family-names: Kumar
+      given-names: Praveen
