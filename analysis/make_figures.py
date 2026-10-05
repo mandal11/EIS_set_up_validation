@@ -283,7 +283,7 @@ def nyquist_temperature():
         a.axhline(0, color=C["mute"], lw=0.7)
         for t in temps:
             s = sheets[t].sort_values("Frequency")
-            a.plot(s.Zreal, s.Zimg, marks[t] + "-", color=cols[t], mfc="white", mew=0.9, ms=3.0,
+            a.plot(s.Zreal, s.Zimg, marks[t] + "-", color=cols[t], mfc="white", mew=0.9, ms=1.5,
                    lw=0.9, label=f"${t}$ $^\\circ$C")
         a.set_xlim(25, 200)
         a.set_ylim(-5, 45)
